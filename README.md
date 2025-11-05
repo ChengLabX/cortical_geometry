@@ -1,1 +1,1 @@
-# cortical_geometric
+# cortical_geometry
